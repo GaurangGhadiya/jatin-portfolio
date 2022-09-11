@@ -59,7 +59,7 @@ const Home = ({ changeTheam, theam }) => {
                 </h1>
                 {/* <p className="lead">React Developer | Web Designer | Freelancer</p> */}
                 <div>
-                  <div className="lead fs-30">
+                  <div className="lead fs-30 h-auto">
                     <Typed
                       data-aos="fade-up"
                       loop
