@@ -8,6 +8,7 @@ import "../node_modules/aos/dist/aos.css";
 const About = React.lazy(() => import("./Pages/About"));
 // const Blog = React.lazy(() => import("./Pages/Blog"));
 const Contact = React.lazy(() => import("./Pages/Contact"));
+const Work = React.lazy(() => import("./Pages/Work"));
 const Footer = React.lazy(() => import("./Pages/Footer"));
 const Home = React.lazy(() => import("./Pages/Home"));
 const LeftHeader = React.lazy(() => import("./Pages/LeftHeader"));
@@ -81,7 +82,8 @@ function App() {
           /> */}
           <About />
           <Resume />
-          {/* <Work /> */}
+
+          <Work />
           {/* <Blog /> */}
           <Contact />
         </main>
