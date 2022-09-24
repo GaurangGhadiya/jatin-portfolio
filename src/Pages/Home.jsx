@@ -64,10 +64,14 @@ const Home = ({ changeTheam, theam }) => {
                       data-aos="fade-up"
                       loop
                       strings={[
-                        "Flutter Mobile App Developer",
                         "Freelancer",
-                        "Website Developer",
+                        "Flutter Mobile App Developer",
                         "Android and IOS Developer",
+                        "Website Developer",
+                        "Node Js Developer",
+                        "Php Developer",
+                        "ASP .net mvc Framework Developer",
+                        
                       ]}
                       typeSpeed={80}
                       backSpeed={80}
