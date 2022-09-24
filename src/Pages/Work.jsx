@@ -81,7 +81,7 @@ const Work = () => {
               <div className="feature-box-02  ho">
                 <div className="icon d-flex justify-content-center w-100">
                   <img
-                    src="http://www.motherfarmhouse.com/images/logo.png"
+                    src="https://img.restaurantguru.com/rba4-Mother-Farm-House-Resort-Mahabaleshwar-logo.jpg"
                     title=""
                     alt=""
                     width={80}
