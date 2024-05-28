@@ -27,7 +27,7 @@ const Home = ({ changeTheam, theam }) => {
 
             <label>
               <a className="text-black" href="mailto:jatindharaiyami@gmail.com">
-                jatindharaiyami@gmail.com
+                jatindharaiyani@gmail.com
               </a>{" "}
             </label>
           </div>
